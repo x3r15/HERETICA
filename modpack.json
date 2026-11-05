@@ -1,0 +1,9 @@
+{
+  "name": "HERETICA",
+  "version": "1.0.0",
+  "minecraft": "1.21.1",
+  "loader": "vanilla",
+  "loaderVersion": null,
+  "channel": "release",
+  "formatVersion": 1
+}
